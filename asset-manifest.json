@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aim-front/static/css/main.ae50dd85.css",
+    "main.js": "/aim-front/static/js/main.59136510.js",
+    "index.html": "/aim-front/index.html",
+    "main.ae50dd85.css.map": "/aim-front/static/css/main.ae50dd85.css.map",
+    "main.59136510.js.map": "/aim-front/static/js/main.59136510.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae50dd85.css",
+    "static/js/main.59136510.js"
+  ]
+}
